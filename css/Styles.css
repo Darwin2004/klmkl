@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+
+.bg-adso{
+    background-color: rgb(30, 236, 219);
+}
+
+#nosotros{
+    width: 100%;
+    position: relative;
+    padding: 120px 0;
+}
+
+#nosotros h2{
+    color: black;
+    font-size: 60px;
+}
+
+#servicios{
+    padding: 100px 0;
+    width: 100%;
+    position: relative;
+}
+
+.card-servicios{
+    border: 1px solid black;
+    max-width: 320px;
+    margin: 10px auto;
+    padding: 0;
+    border-radius: 10px;
+}
+
+.card-servicios img{
+    border-radius: 10px 10px 0 0;
+}
+
+.card-servicios h3{
+    padding: 10px;
+    color: aqua;
+}
+
+.card-servicios p{
+    padding: 10px;
+    color: #666;
+}
+
+#preguntas{
+    width: 100%;
+    position: relative;
+    padding: 80px 0;
+    font-family: 'Lora', serif;
+}
+
+#preguntas h2{
+    color: black;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+footer{
+    background: rgb(178, 175, 184);
+    padding: 15;
+}
+
+
+.iconos{
+    margin: 20px;
+
+}
